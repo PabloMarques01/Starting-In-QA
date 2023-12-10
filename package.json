@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chai": "^4.3.10",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "name": "aula-de-selenium",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
